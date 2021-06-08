@@ -13,7 +13,7 @@
 ## 📅 스터디 진행
 
 ### 1회차 - **`RandomForest 와 Decision Tree의 차이점?`** 
-> RandomForest와 Decision Tree의 개념을 이해한 후 간단히 정리</b>
+> RandomForest와 Decision Tree의 개념을 이해한 후 간단히 정리 <br>
 > 실습파일 공유 -> '파일명_이름'.ipynb
 
 ### 2회차 - **``**
