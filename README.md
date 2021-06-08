@@ -28,4 +28,5 @@
 ---
 ## :file_folder: 폴더 설명
 - study : 스터디 내용 보고서 작성 폴더 
+- submisson : 제출한 파일 
 - ---
